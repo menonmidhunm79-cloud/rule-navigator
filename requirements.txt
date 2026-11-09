@@ -1,0 +1,9 @@
+flask
+pymupdf
+python-docx
+pypdf
+scikit-learn
+sentence-transformers
+faiss-cpu
+groq
+requests
